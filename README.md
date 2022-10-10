@@ -1,2 +1,2 @@
 # Hello-world
-Beginner's repository.
+Hello Yerdana!
